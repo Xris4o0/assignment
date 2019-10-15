@@ -15,7 +15,7 @@ install:
   - npm install
 
 script:
-  - ls - la
+  - ls -la
 
 deploy:
   provider: script
